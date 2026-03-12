@@ -129,7 +129,7 @@ https://nullbin.xyz/#e=<event-id>&r=<relay-url>&m=nip44
 
 See [`SPEC.md`](./SPEC.md) for the full product specification including threat model, protocol design, and UX decisions.
 
-See the [milestones](https://github.com/YOUR_USERNAME/nullbin/milestones) for the build plan.
+See the [milestones](https://github.com/OGSleepy/nullbin/milestones) for the build plan.
 
 ---
 
